@@ -16,6 +16,16 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
 
+## 🎓 Cybersecurity Certifications
+Here are the certifications I’ve earned — you can also view them directly on my **[Credly profile](https://www.credly.com/users/brandon-smith.a4c1d7ea/badges#credly)**:
+
+- CISSP – Certified Information Systems Security Professional  
+- CySA+ – CompTIA Cybersecurity Analyst  
+- Security+ – CompTIA Security+  
+- AWS Solutions Architect Associate
+- CCNA – Cisco Certified Network Associate  
+- JNCIA-SEC – Juniper Networks Certified Associate, Security
+
 <hr/>
 
 ## 🤳 Connect With Me
