@@ -1,6 +1,6 @@
 # <a href="https://www.linkedin.com/in/bs0038/">Brandon Smith</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+Cybersecurity is more than a career path for me—it’s a passion. After building a strong foundation in networking, I’m now focused on advancing in cybersecurity through vulnerability management, cloud security, and threat detection projects.  
 
 
 ## ⚠️ Vulnerability Management Projects
